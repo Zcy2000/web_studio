@@ -295,14 +295,7 @@ public class CPABE {
             System.out.println("successfully decrypted!");
         }
     }
-    //        Node[] accessTree = new Node[7];
-//        accessTree[0] = new Node(new int[]{2,3}, new int[]{1,2,3});
-//        accessTree[1] = new Node(1);
-//        accessTree[2] = new Node(new int[]{2,3}, new int[]{4,5,6});
-//        accessTree[3] = new Node(5);
-//        accessTree[4] = new Node(2);
-//        accessTree[5] = new Node(3);
-//        accessTree[6] = new Node(4);
+
 
     public static void main(String[] args) throws Exception {
         basicTest();
