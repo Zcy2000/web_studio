@@ -2,6 +2,9 @@
 Smart contract project.
 This project is based on the OpenZeppelin smart contract library.
 
+Project dependencies https://github.com/OpenZeppelin/openzeppelin-contracts 
+https://github.com/hjlpb/ABE
+
 We have perfected the trading order.
 Other features are still under development.
 
